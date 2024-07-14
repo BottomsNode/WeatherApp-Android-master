@@ -5,7 +5,7 @@
 
 ## Preview
 
-<img src="" width="200"/>
+<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/gif1.gif" width="200"/>
 
 ## Screenshots
 
