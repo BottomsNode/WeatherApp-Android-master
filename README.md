@@ -5,13 +5,13 @@
 
 ## Preview
 
-<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/gif1.gif" width="200"/>
+<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/gif1.gif"/>
 
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/image1.jpg" width="200"/>
-	<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/image2.jpg" width="200"/>
+	<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/image1.jpg" width="250"/>
+	<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/image2.jpg" width="250"/>
 </p>
 
 
