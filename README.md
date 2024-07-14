@@ -11,7 +11,8 @@ Welcome to the **Weather App**! 🌦️✨ A sleek and user-friendly Android app
 
 Here’s a glimpse of what the app looks like in action:
 
-![Preview](https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/gif1.gif)
+![Preview]
+<img src="https://github.com/BottomsNode/WeatherApp-Android-master/blob/main/gif1.gif" width="250"/>
 
 ## 📷 Screenshots
 
